@@ -1,10 +1,10 @@
-Comportamento da função custo e da acuracia para o modelo padrão e o modelo usando ensemble. 
-Chamamos de U_linear quando usamos a parametrização onde as portas CNOT podiam atuar entre os pares vizinhos de qubits e chamamos de U_all quando a porta CNOT foi aplicada em todos os pares de qubits
+Behavior of the cost function and accuracy for the standard model and the model using ensemble.
+We call it U_linear when we use the parameterization where the CNOT gates could act between neighboring pairs of qubits and we call it U_all when the CNOT gate was applied to all pairs of qubits
 
-Usando o dataset minist somente com imagens de 0 e 1. Foi usado 2000 imagens de cada um para o treinamento e 200 de cada um para o teste
-dataSet1 --> dados gerados quando usado a parametrização com CNOT aplicada nos pares de qubits vizinhos
-dataSet2 --> dados gerados quando usado a parametrização com CNOT aplicada em todos os pares de qubits
+Using the minist dataset with only images of 0 and 1. 2000 images of each were used for training and 200 of each for testing
+dataSet1 --> data generated when using parameterization with CNOT applied to pairs of neighboring qubits
+dataSet2 --> data generated when using parameterization with CNOT applied to all qubit pairs
 
-Usando o dataset minist somente com imagens de 0, 1 e 2. Foi usado 2000 imagens de cada um para o treinamento e 200 de cada um para o teste
-dataSet3 --> dados gerados quando usado a parametrização com CNOT aplicada nos pares de qubits vizinhos
-dataSet4 --> dados gerados quando usado a parametrização com CNOT aplicada em todos os pares de qubits
+Using the minist dataset with only images of 0, 1 and 2. 2000 images of each were used for training and 200 of each for testing
+dataSet3 --> data generated when using parameterization with CNOT applied to pairs of neighboring qubits
+dataSet4 --> data generated when using parameterization with CNOT applied to all qubit pairs
