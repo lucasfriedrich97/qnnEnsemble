@@ -1,5 +1,1 @@
-preliminar --> contem os códigos e dados gerados no estudo preliminar
-
-MNIST --> contem os códigos e dados gerados no estudo do uso do método ensemble no problema de classificação binario usando o data set MNIST
-
-
+In this repository we present the data and codes used in the article ''. In this work we analyze how we can use the method known as ensemble learning to build a quantum neural network capable of mitigating the problem of gradient disappearance and the problem of cost function concentration.
